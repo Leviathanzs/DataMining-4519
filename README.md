@@ -91,6 +91,7 @@ Accuracy: 0.96
 Precision: 0.96
 Recall: 0.94
 F1-Score: 0.95
+
 Diskusi Hasil dan Kesimpulan
 Model XGBoost memberikan performa terbaik dengan F1-Score sebesar 0.95.
 Random Forest memberikan keseimbangan yang baik antara akurasi dan recall.
